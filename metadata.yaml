@@ -1,0 +1,34 @@
+_repo: Nocturnos_44211
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Crespo, Gonçalves
+    aliases:
+    - Gonçalves Crespo, Antônio Cándida
+    - Goncalves Crespo, Antonio Candida
+    - Crespo, Antonio Candido Goncalves
+    - Crespo, Antônio Cândido Gonçalves
+    birthdate: 1846
+    deathdate: 1883
+    gutenberg_agent_id: '42636'
+    url: http://www.gutenberg.org/2009/agents/42636
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Gon%C3%A7alves_Crespo
+    - https://pt.wikipedia.org/wiki/Ant%C3%B3nio_C%C3%A2ndido_Gon%C3%A7alves_Crespo
+description: ''
+gutenberg_issued: '2013-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44211'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portuguese poetry -- 19th century'
+- !lcc 'PQ'
+title: Nocturnos
+url: http://www.gutenberg.org/ebooks/44211
